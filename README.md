@@ -1,5 +1,5 @@
 ### AUM Ono code.
-![image](https://user-images.githubusercontent.com/84431861/162559162-b59a5637-95da-4ef7-9bb3-30c0c4837e36.png)
+![image](https://user-images.githubusercontent.com/84431861/162559253-c1f478a6-b235-45f4-b159-daf707e12038.png)
 
 <!--
 **AUMOno/AUMOno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
