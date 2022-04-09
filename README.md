@@ -1,5 +1,5 @@
-### I'm not doing this for a lambo.
-🛸
+### Works by AUM Ono.
+![image](https://user-images.githubusercontent.com/84431861/162559162-b59a5637-95da-4ef7-9bb3-30c0c4837e36.png)
 
 <!--
 **AUMOno/AUMOno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
