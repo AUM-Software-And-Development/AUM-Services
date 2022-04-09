@@ -1,4 +1,4 @@
-### Works by AUM Ono.
+### AUM Ono code.
 ![image](https://user-images.githubusercontent.com/84431861/162559162-b59a5637-95da-4ef7-9bb3-30c0c4837e36.png)
 
 <!--
